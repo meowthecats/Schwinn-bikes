@@ -224,7 +224,7 @@ export default function App() {
                 <span className="text-blue-accent text-xs font-bold mb-4 block uppercase tracking-[0.3em] opacity-60">Utility Enhancement</span>
                 <h4 className="font-display font-black text-2xl text-white mb-6 border-b-2 inline-block border-blue-accent pb-1">Loop Upgrades</h4>
                 <ul className="space-y-4 font-sans text-[15px] leading-[1.8] text-gray-300">
-                  <li className="flex items-start"><span className="text-blue-accent mr-3">✦</span> <strong>Folding Pedals:</strong> Swap the stock pedals for alloy folding pedals to make the bike's folded footprint even narrower and easier to stow.</li>
+                  <li className="flex items-start"><span className="text-blue-accent mr-3">✦</span> <strong>Folding Pedals (UI/UX Improvement):</strong> Swap the stock pedals for alloy folding pedals to reduce the folded bike's footprint, making it even narrower and easier to stow.</li>
                   <li className="flex items-start"><span className="text-blue-accent mr-3">✦</span> <strong>LED Lighting Rig:</strong> Since the Loop is often used for commuting, high-lumen rechargeable front and rear lights are mandatory.</li>
                   <li className="flex items-start"><span className="text-blue-accent mr-3">✦</span> <strong>Mini Pannier Bags:</strong> The included rear rack is begging for a set of waterproof mini-panniers to keep your laptop or lunch off your back.</li>
                 </ul>
