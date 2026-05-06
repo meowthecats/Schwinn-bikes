@@ -215,7 +215,9 @@ export default function App() {
                 <h4 className="font-display font-black text-2xl text-gray-900 mb-6 border-b-2 inline-block border-brand-500 pb-1">Riverside Upgrades</h4>
                 <ul className="space-y-4 font-sans text-[15px] leading-[1.8] text-gray-600">
                   <li className="flex items-start"><span className="text-brand-500 mr-3">✦</span> <strong>Cloud-Like Saddle:</strong> The stock seat is okay, but a heavily gel-padded aftermarket cruiser saddle transforms the ride for longer distances.</li>
-                  <li className="flex items-start"><span className="text-brand-500 mr-3">✦</span> <strong>Front Basket:</strong> A classic wicker or woven wire basket perfectly complements the cruiser aesthetic while adding immense utility for beach towels or groceries.</li>
+                  <li className="flex items-start"><span className="text-brand-500 mr-3">✦</span> <strong>Suspension Seat Post (UI/UX Improvement):</strong> Replace the stock seat post with a suspension seat post to further enhance rider comfort on uneven surfaces.</li>
+                  <li className="flex items-start"><span className="text-brand-500 mr-3">✦</span> <strong>Front Basket (Core Feature):</strong> A classic wicker or woven wire basket perfectly complements the cruiser aesthetic while adding immense utility for beach towels or groceries.</li>
+                  <li className="flex items-start"><span className="text-brand-500 mr-3">✦</span> <strong>Cargo Trailer Hitch (Core Feature):</strong> Install a small cargo trailer hitch to significantly increase its carrying capacity for leisurely shopping trips.</li>
                   <li className="flex items-start"><span className="text-brand-500 mr-3">✦</span> <strong>Puncture-Resistant Tubes:</strong> Because it's heavy, fixing a flat on the Riverside is a chore. Slime tubes or Kevlar tire liners are highly recommended.</li>
                 </ul>
               </div>
@@ -227,6 +229,7 @@ export default function App() {
                   <li className="flex items-start"><span className="text-blue-accent mr-3">✦</span> <strong>Folding Pedals (UI/UX Improvement):</strong> Swap the stock pedals for alloy folding pedals to reduce the folded bike's footprint, making it even narrower and easier to stow.</li>
                   <li className="flex items-start"><span className="text-blue-accent mr-3">✦</span> <strong>LED Lighting Rig:</strong> Since the Loop is often used for commuting, high-lumen rechargeable front and rear lights are mandatory.</li>
                   <li className="flex items-start"><span className="text-blue-accent mr-3">✦</span> <strong>Mini Pannier Bags:</strong> The included rear rack is begging for a set of waterproof mini-panniers to keep your laptop or lunch off your back.</li>
+                  <li className="flex items-start"><span className="text-blue-accent mr-3">✦</span> <strong>Schwalbe Marathon Plus Tires:</strong> Upgrade to these highly durable, puncture-resistant tires to enhance reliability for daily commuting.</li>
                 </ul>
               </div>
             </div>
