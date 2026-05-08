@@ -214,11 +214,11 @@ export default function App() {
                 <span className="text-brand-500 text-xs font-bold mb-4 block uppercase tracking-[0.3em] opacity-60">Comfort Customization</span>
                 <h4 className="font-display font-black text-2xl text-gray-900 mb-6 border-b-2 inline-block border-brand-500 pb-1">Riverside Upgrades</h4>
                 <ul className="space-y-4 font-sans text-[15px] leading-[1.8] text-gray-600">
-                  <li className="flex items-start"><span className="text-brand-500 mr-3">✦</span> <strong>Cloud-Like Saddle:</strong> The stock seat is okay, but a heavily gel-padded aftermarket cruiser saddle transforms the ride for longer distances.</li>
-                  <li className="flex items-start"><span className="text-brand-500 mr-3">✦</span> <strong>Suspension Seat Post (UI/UX Improvement):</strong> Replace the stock seat post with a suspension seat post to further enhance rider comfort on uneven surfaces.</li>
-                  <li className="flex items-start"><span className="text-brand-500 mr-3">✦</span> <strong>Front Basket (Core Feature):</strong> A classic wicker or woven wire basket perfectly complements the cruiser aesthetic while adding immense utility for beach towels or groceries.</li>
-                  <li className="flex items-start"><span className="text-brand-500 mr-3">✦</span> <strong>Cargo Trailer Hitch (Core Feature):</strong> Install a small cargo trailer hitch to significantly increase its carrying capacity for leisurely shopping trips.</li>
-                  <li className="flex items-start"><span className="text-brand-500 mr-3">✦</span> <strong>Puncture-Resistant Tubes:</strong> Because it's heavy, fixing a flat on the Riverside is a chore. Slime tubes or Kevlar tire liners are highly recommended.</li>
+                  <li className="flex items-start"><span className="text-brand-500 mr-3">✦</span> <strong>Cloud-Like Saddle:</strong> The stock seat is okay, but an affordable, heavy-duty gel cover or a basic $20 aftermarket cruiser saddle transforms the ride for longer distances without breaking the bank.</li>
+                  <li className="flex items-start"><span className="text-brand-500 mr-3">✦</span> <strong>Suspension Seat Post (UI/UX Improvement):</strong> Replace the stock seat post with an inexpensive alloy suspension seat post (usually under $20) to enhance rider comfort on uneven surfaces.</li>
+                  <li className="flex items-start"><span className="text-brand-500 mr-3">✦</span> <strong>Front Basket (Core Feature):</strong> Suggest a cheap wire basket or repurposed crate to complement the cruiser aesthetic and add utility.</li>
+                  <li className="flex items-start"><span className="text-brand-500 mr-3">✦</span> <strong>Cargo Trailer Hitch (Core Feature):</strong> Suggest a budget-friendly universal hitch adapter to significantly increase carrying capacity, allowing the user to tow used or inexpensive cargo trailers for leisurely shopping trips.</li>
+                  <li className="flex items-start"><span className="text-brand-500 mr-3">✦</span> <strong>Puncture-Resistant Tubes:</strong> Because it's heavy, fixing a flat on the Riverside is a chore. Cheap Kevlar tire liners or a $10 bottle of slime tire sealant are highly recommended budget fixes to prevent flats.</li>
                 </ul>
               </div>
 
@@ -226,10 +226,17 @@ export default function App() {
                 <span className="text-blue-accent text-xs font-bold mb-4 block uppercase tracking-[0.3em] opacity-60">Utility Enhancement</span>
                 <h4 className="font-display font-black text-2xl text-white mb-6 border-b-2 inline-block border-blue-accent pb-1">Loop Upgrades</h4>
                 <ul className="space-y-4 font-sans text-[15px] leading-[1.8] text-gray-300">
-                  <li className="flex items-start"><span className="text-blue-accent mr-3">✦</span> <strong>Folding Pedals (UI/UX Improvement):</strong> Swap the stock pedals for alloy folding pedals to reduce the folded bike's footprint, making it even narrower and easier to stow.</li>
-                  <li className="flex items-start"><span className="text-blue-accent mr-3">✦</span> <strong>LED Lighting Rig:</strong> Since the Loop is often used for commuting, high-lumen rechargeable front and rear lights are mandatory.</li>
-                  <li className="flex items-start"><span className="text-blue-accent mr-3">✦</span> <strong>Mini Pannier Bags:</strong> The included rear rack is begging for a set of waterproof mini-panniers to keep your laptop or lunch off your back.</li>
-                  <li className="flex items-start"><span className="text-blue-accent mr-3">✦</span> <strong>Schwalbe Marathon Plus Tires:</strong> Upgrade to these highly durable, puncture-resistant tires to enhance reliability for daily commuting.</li>
+                  <li className="flex items-start"><span className="text-blue-accent mr-3">✦</span> <strong>Folding Pedals (UI/UX Improvement):</strong> Swap the stock pedals for $15 generic alloy folding pedals to reduce the folded bike's footprint for easier storage.</li>
+                  <li className="flex items-start"><span className="text-blue-accent mr-3">✦</span> <strong>LED Lighting Rig:</strong> Since the Loop is often used for commuting, a cheap $15 USB-rechargeable LED light set from any online retailer is a mandatory safety upgrade.</li>
+                  <li className="flex items-start"><span className="text-blue-accent mr-3">✦</span> <strong>Mini Pannier Bags:</strong> Instead of expensive brands, the included rear rack is begging for a $20 set of generic waterproof mini-panniers (or a strapped-on cheap backpack) to keep the weight off yours.</li>
+                  <li className="flex items-start">
+                    <span className="text-blue-accent mr-3">✦</span> 
+                    <div>
+                      <strong>Budget-Friendly Tires (Quality-of-Life Improvement):</strong> Suggest street-tread BMX tires paired with thick tube liners as an affordable reliability boost for commuting, costing under $15.
+                      <img src="https://placehold.co/600x300/111827/4f46e5?text=BMX+Tires+&+Liners" alt="BMX Tires and Tube Liners" className="mt-4 rounded-[4px] w-full max-w-sm object-cover border border-white/10" />
+                    </div>
+                  </li>
+                  <li className="flex items-start"><span className="text-blue-accent mr-3">✦</span> <strong>Budget-Friendly Fenders:</strong> Add inexpensive, generic 20-inch snap-on plastic fenders (usually under $15) to keep rain and road spray off your clothes without breaking the bank.</li>
                 </ul>
               </div>
             </div>
